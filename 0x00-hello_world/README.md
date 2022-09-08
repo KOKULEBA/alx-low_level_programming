@@ -1,1 +1,1 @@
-intel syntax
+print without printf or puts
