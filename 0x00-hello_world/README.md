@@ -1,1 +1,1 @@
-print sizes of character types
+intel syntax
