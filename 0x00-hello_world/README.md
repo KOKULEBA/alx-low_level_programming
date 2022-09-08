@@ -1,1 +1,1 @@
-print using printf
+print sizes of character types
