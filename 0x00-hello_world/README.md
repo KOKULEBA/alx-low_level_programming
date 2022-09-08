@@ -1,1 +1,1 @@
-generate an assembly code
+prints a sentence
