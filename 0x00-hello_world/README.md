@@ -1,1 +1,1 @@
-prints a sentence
+print using printf
