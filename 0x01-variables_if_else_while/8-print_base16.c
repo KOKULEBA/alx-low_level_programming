@@ -13,8 +13,7 @@ int main(void)
 			char alpha;
 
 
-
-				for (n = 48; n < 58; n++)
+				for (a = 48; a < 58; a++)
 
 						{
 
