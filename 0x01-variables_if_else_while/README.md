@@ -1,1 +1,1 @@
-print base 16 numbers
+all possible digit combinations
