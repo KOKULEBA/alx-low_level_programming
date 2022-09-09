@@ -19,8 +19,7 @@ int main(void)
 
 						printf("%d", a);
 
-				printf("\a");
-
-					return (0);
+				printf("\n");
+				return (0);
 
 }
