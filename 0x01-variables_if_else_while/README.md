@@ -1,1 +1,1 @@
-compare last digit
+print the alphabet
