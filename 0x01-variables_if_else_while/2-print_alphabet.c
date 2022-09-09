@@ -20,12 +20,11 @@ int main(void)
 
 					{
 
-								putchar(ch);
+								putchar(alpha);
 
 									}
 
 				putchar('\n');
 
 					return (0);
-
 }
