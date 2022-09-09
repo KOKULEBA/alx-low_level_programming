@@ -1,1 +1,1 @@
-lowercase alphabet except q and e
+single digit numbers of base 10
