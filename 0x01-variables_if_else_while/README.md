@@ -1,1 +1,1 @@
-3 digit combos
+two two digit combos
