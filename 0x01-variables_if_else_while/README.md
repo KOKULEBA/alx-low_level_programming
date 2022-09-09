@@ -1,1 +1,1 @@
-all possible digit combinations
+two git combinations
