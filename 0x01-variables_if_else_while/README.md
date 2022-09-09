@@ -1,1 +1,1 @@
-single digit numbers of base 10
+print for base 10
