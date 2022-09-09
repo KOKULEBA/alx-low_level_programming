@@ -1,1 +1,1 @@
-print for base 10
+print alphabet in reverse
