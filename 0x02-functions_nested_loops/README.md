@@ -1,1 +1,1 @@
-print last digit of a number
+24 hours of jack bauer
