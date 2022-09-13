@@ -1,1 +1,1 @@
-add two numbers
+natural numbers from n to 98
