@@ -1,1 +1,1 @@
-natural numbers from n to 98
+n times table
