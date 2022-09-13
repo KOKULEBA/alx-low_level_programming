@@ -1,1 +1,1 @@
-even fibonacci
+first 98 fibonacci
