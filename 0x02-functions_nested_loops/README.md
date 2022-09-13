@@ -1,1 +1,1 @@
-check for alphabetic character
+return sign of a number
