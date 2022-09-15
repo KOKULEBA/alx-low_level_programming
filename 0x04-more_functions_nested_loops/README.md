@@ -1,1 +1,1 @@
-check for uppercase
+check for a digit
