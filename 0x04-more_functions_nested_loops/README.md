@@ -1,1 +1,1 @@
-print ten times
+print staright line
