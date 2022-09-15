@@ -1,1 +1,1 @@
-skip 2 and 4
+print ten times
