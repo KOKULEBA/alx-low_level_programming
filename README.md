@@ -1,1 +1,1 @@
-learning c programming
+printing putchar
