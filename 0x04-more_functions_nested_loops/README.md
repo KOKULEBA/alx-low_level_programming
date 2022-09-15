@@ -1,1 +1,1 @@
-print staright line
+print 0 to 9
