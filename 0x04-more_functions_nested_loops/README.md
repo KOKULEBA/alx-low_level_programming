@@ -1,1 +1,1 @@
-print 0 to 9
+print 0-9
