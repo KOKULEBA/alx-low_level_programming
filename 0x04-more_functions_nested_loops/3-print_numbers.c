@@ -2,9 +2,9 @@
 
 
 /**
- *print_numbers - prints nmubers from 0-9
- *
- */
+*print_numbers - prints nmubers
+*
+*/
 
 
 
