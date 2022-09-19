@@ -29,4 +29,4 @@ int _atoi(char *s);
 
 void rev_string(char *s);
 
-endif /*MAIN_H*/
+#endif /*MAIN_H*/
