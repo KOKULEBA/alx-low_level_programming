@@ -1,35 +1,75 @@
-#include "main.h"
+#include <stdio.h>
+
+#include <stdlib.h>
+
+#include <time.h>
 
 
 
 /**
- *_strlen - Returns the length of a string
+ *main - random password generator for 101-crackme
  *
- *@s: String to count
- *
- *
- *Return: String length
+ *Return: always 0
  *
  */
 
-int _strlen(char *s)
+int main(void)
 
 {
 
-int c = 0;
+int i, j, k, s;
+
+char c[] = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+
+char p[58];
 
 
 
-for (; *s != '\0'; s++)
+srand(time(NULL));
+
+while (s != 2772)
 
 {
 
-c++;
+i = k = s = 0;
+
+while ((2772 - 122) > s)
+
+{
+j = rand() % 62;
+
+p[i] = c[j];
+s += c[j];
+i++;
+}
+while (c[k])
+
+																{
+
+																if (c[k] == (2772 - s))
+
+																{
+
+																p[i] = [k];
+
+																																s += c[k];
+
+																																i++;
+
+																																break;
+
+																																}
+
+																k++;
+
+																}
 
 }
 
+p[i] = '\0';
 
+printf("%s", p);
 
-return (c);
+return (0);
 
 }
