@@ -48,17 +48,10 @@ if (targ[j] == sep[k])
 {
 
 cap = 1;
-
 if (!(targ[j + 1] <= 'z' && targ[j + 1] >= 'a'))
-
 cap = 0;
-
 }
-
 }
-
 }
-
 return (targ);
-
 }
