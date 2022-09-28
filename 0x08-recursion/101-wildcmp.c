@@ -46,7 +46,7 @@ return (wildcmp(s1 + findsrc(s1, *(s2 + 1), 0, 0), s2));
 return (0);
 }
 /**
- *findscrc - identifying strings
+ *findsrc - identifying strings
  *@c: character
  *@s: string
  *@i: integer 1
