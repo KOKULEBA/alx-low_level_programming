@@ -32,36 +32,29 @@ int total, i;
 char *p;
 
 int num;
-
-
-
 total = 0;
 
 if (argc > 1)
 
 {
-
 for (i = 1; argv[i]; i++)
 
 {
 
-																num = strtol(argv[i], &p, 10);
+num = strtol(argv[i], &p, 10);
 
-																if (!*p)
+if (!*p)
 
-																total += num;
+total += num;
 
-																else
+else
 
-																{
+{
 
-																printf("Error\n");
-																																return (1);
-
-																																}
-
-																}
-
+printf("Error\n");
+return (1);
+}
+}
 }
 printf("%d\n", total);
 
