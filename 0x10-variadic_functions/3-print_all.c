@@ -117,35 +117,19 @@ checker storage[] = {
 
 
 i = 0;
-
 sep = "";
-
 va_start(args, format);
-
 while (format != NULL && format[i / 4] != '\0')
-
 {
-
 j = i % 4;
-
-																if (storage[j].type[0] == format[i / 4])
-
-																{
-
-																printf("%s", sep);
-
-																storage[j].f(args);
-
-																sep = ", ";
-
-																}
-
-i++;
-
+if (storage[j].type[0] == format[i / 4])
+{
+printf("%s", sep);
+storage[j].f(args);
+sep = ", ";
 }
-
+i++;
+}
 printf("\n");
-
 va_end(args);
-
 }
