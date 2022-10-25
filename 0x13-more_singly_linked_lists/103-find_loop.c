@@ -26,7 +26,8 @@ if (currents->next)
 currents = currents->next;
 else
 return (NULL);
-if (currentf->next->next)													currentf = currentf->next->next;
+if (currentf->next->next)
+currentf = currentf->next->next;
 else
 return (NULL);
 } while (currentf != currents);
